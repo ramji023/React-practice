@@ -1,10 +1,9 @@
-import Todo from "./interview Questions/todo list/Todo"
 
-
+import SearchBox from "./interview Questions/searchFilter/SearchBox"
 function App() {
   return (
     <>
-      <Todo />
+      <SearchBox />
     </>
   )
 }
