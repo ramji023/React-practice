@@ -1,9 +1,9 @@
+import Form from "./interview Questions/formValidation/Form"
 
-import SearchBox from "./interview Questions/searchFilter/SearchBox"
 function App() {
   return (
     <>
-      <SearchBox />
+      <Form/>
     </>
   )
 }
