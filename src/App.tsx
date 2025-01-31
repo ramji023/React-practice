@@ -1,10 +1,8 @@
-import { Theme, ThemeProvider } from "./interview Questions/theme_changer/Theme"
+import Watch from "./interview Questions/timer/Watch"
+
 function App() {
   return (
-    <ThemeProvider>
-      <Theme />
-    </ThemeProvider>
-
+    <Watch />
   )
 }
 
