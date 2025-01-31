@@ -1,10 +1,10 @@
-import Form from "./interview Questions/formValidation/Form"
-
+import { Theme, ThemeProvider } from "./interview Questions/theme_changer/Theme"
 function App() {
   return (
-    <>
-      <Form/>
-    </>
+    <ThemeProvider>
+      <Theme />
+    </ThemeProvider>
+
   )
 }
 
