@@ -1,8 +1,8 @@
-import Watch from "./interview Questions/timer/Watch"
+import Count from "./interview Questions/customHook/Count"
 
 function App() {
   return (
-    <Watch />
+    <Count/>
   )
 }
 
