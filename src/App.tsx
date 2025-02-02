@@ -1,8 +1,8 @@
-import Count from "./interview Questions/customHook/Count"
+import DebounceSearchBox from "./interview Questions/searchFilter/DebounceSearchBox"
 
 function App() {
   return (
-    <Count/>
+    <DebounceSearchBox/>
   )
 }
 
