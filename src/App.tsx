@@ -1,9 +1,7 @@
-import DebounceSearchBox from "./interview Questions/searchFilter/DebounceSearchBox"
-
-function App() {
+export default function App() {
   return (
-    <DebounceSearchBox/>
+    <>
+     
+    </>
   )
 }
-
-export default App
