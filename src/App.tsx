@@ -1,8 +1,8 @@
-import RaffleDraw from "./interview Questions/raffle draw/RaffleDraw"
+import Pagination from "./interview Questions/pagination/Pagination_"
 export default function App() {
   return (
     <>
-      <RaffleDraw />
+      <Pagination />
     </>
   )
 }
