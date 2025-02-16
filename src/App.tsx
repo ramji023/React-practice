@@ -1,8 +1,8 @@
-import Pagination from "./interview Questions/pagination/Pagination_"
+import Exercise01 from "./interview Questions/react hooks/Exercise01"
 export default function App() {
   return (
     <>
-      <Pagination />
+      <Exercise01 />
     </>
   )
 }
