@@ -1,8 +1,8 @@
-import Exercise01 from "./interview Questions/react hooks/Exercise01"
+import UseImparativeHook from "./interview Questions/react hooks/UseImparativeHook"
 export default function App() {
   return (
     <>
-      <Exercise01 />
+      <UseImparativeHook />
     </>
   )
 }
