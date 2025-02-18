@@ -1,8 +1,8 @@
-import UseImparativeHook from "./interview Questions/react hooks/UseImparativeHook"
+import InterestCalculator from "./interview Questions/polling system/InterestCalculate"
 export default function App() {
   return (
     <>
-      <UseImparativeHook />
+      <InterestCalculator />
     </>
   )
 }
