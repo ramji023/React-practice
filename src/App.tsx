@@ -1,8 +1,8 @@
-import DistanceConverter from "./interview Questions/distance converter/DistanceConverter"
+import FAQComponent from "./interview Questions/FAQ component/FAQComponent"
 export default function App() {
   return (
     <>
-      <DistanceConverter />
+      <FAQComponent />
     </>
   )
 }
