@@ -1,8 +1,8 @@
-import InterestCalculator from "./interview Questions/polling system/InterestCalculate"
+import DistanceConverter from "./interview Questions/distance converter/DistanceConverter"
 export default function App() {
   return (
     <>
-      <InterestCalculator />
+      <DistanceConverter />
     </>
   )
 }
