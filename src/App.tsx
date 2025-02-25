@@ -1,8 +1,8 @@
-import FAQComponent from "./interview Questions/FAQ component/FAQComponent"
+import StartAttempt from "./interview Questions/Correct Answers/StartAttempt"
 export default function App() {
   return (
     <>
-      <FAQComponent />
+      <StartAttempt />
     </>
   )
 }
