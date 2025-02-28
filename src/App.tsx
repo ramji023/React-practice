@@ -1,8 +1,8 @@
-import StartAttempt from "./interview Questions/Correct Answers/StartAttempt"
+import Rating from "./interview Questions/Rating Component/Rating"
 export default function App() {
   return (
     <>
-      <StartAttempt />
+      <Rating />
     </>
   )
 }
