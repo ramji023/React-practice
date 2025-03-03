@@ -1,8 +1,8 @@
-import Rating from "./interview Questions/Rating Component/Rating"
+import CheckBoxes from "./interview Questions/checkBoxes/CheckBoxes"
 export default function App() {
   return (
     <>
-      <Rating />
+      <CheckBoxes />
     </>
   )
 }
