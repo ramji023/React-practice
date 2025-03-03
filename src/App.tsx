@@ -1,8 +1,8 @@
-import CheckBoxes from "./interview Questions/checkBoxes/CheckBoxes"
+import UpdateArray from "./interview Questions/update array and objects/UpdateArray"
 export default function App() {
   return (
     <>
-      <CheckBoxes />
+      <UpdateArray />
     </>
   )
 }
