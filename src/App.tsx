@@ -1,8 +1,12 @@
-import UpdateArray from "./interview Questions/update array and objects/UpdateArray"
-export default function App() {
+import MultiStepForm from "./interview Questions/multiStep form/MultiStepForm"
+const App = () => {
   return (
     <>
-      <UpdateArray />
+      <h1>Welcome to react practice tutorial</h1>
+      <MultiStepForm />
     </>
+
   )
 }
+
+export default App
