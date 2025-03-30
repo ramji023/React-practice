@@ -1,9 +1,8 @@
-import MultiStepForm from "./interview Questions/multiStep form/MultiStepForm"
+import InputField from "./interview Questions/add_dynamic_input_field/InputField"
 const App = () => {
   return (
     <>
-      <h1>Welcome to react practice tutorial</h1>
-      <MultiStepForm />
+      <InputField />
     </>
 
   )
